@@ -1,8 +1,7 @@
- class Hello
+class Hello
 {
 public static void main(String args[])
 {
-<<<<<<< HEAD
-System.out.println("hello trialdir");
+System.out.println("hello 33");
 }
 }
